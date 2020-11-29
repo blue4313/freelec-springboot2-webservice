@@ -22,7 +22,6 @@ public class HelloControllerTest {
     private MockMvc mvc;
 
     @Test
-    @Ignore
     public void hello() throws Exception {
         String hello = "hello";
 
